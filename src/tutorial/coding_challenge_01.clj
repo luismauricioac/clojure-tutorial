@@ -1,3 +1,4 @@
+;; Pets store
 (ns tutorial.coding-challenge-01
   (:gen-class))
 
